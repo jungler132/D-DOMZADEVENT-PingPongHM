@@ -1,0 +1,13 @@
+D:\C# PROJECTS\PingPongHM\bin\Debug\netcoreapp3.1\PingPongHM.exe
+D:\C# PROJECTS\PingPongHM\bin\Debug\netcoreapp3.1\PingPongHM.deps.json
+D:\C# PROJECTS\PingPongHM\bin\Debug\netcoreapp3.1\PingPongHM.runtimeconfig.json
+D:\C# PROJECTS\PingPongHM\bin\Debug\netcoreapp3.1\PingPongHM.runtimeconfig.dev.json
+D:\C# PROJECTS\PingPongHM\bin\Debug\netcoreapp3.1\PingPongHM.dll
+D:\C# PROJECTS\PingPongHM\bin\Debug\netcoreapp3.1\PingPongHM.pdb
+D:\C# PROJECTS\PingPongHM\obj\Debug\netcoreapp3.1\PingPongHM.csprojAssemblyReference.cache
+D:\C# PROJECTS\PingPongHM\obj\Debug\netcoreapp3.1\PingPongHM.AssemblyInfoInputs.cache
+D:\C# PROJECTS\PingPongHM\obj\Debug\netcoreapp3.1\PingPongHM.AssemblyInfo.cs
+D:\C# PROJECTS\PingPongHM\obj\Debug\netcoreapp3.1\PingPongHM.csproj.CoreCompileInputs.cache
+D:\C# PROJECTS\PingPongHM\obj\Debug\netcoreapp3.1\PingPongHM.dll
+D:\C# PROJECTS\PingPongHM\obj\Debug\netcoreapp3.1\PingPongHM.pdb
+D:\C# PROJECTS\PingPongHM\obj\Debug\netcoreapp3.1\PingPongHM.genruntimeconfig.cache

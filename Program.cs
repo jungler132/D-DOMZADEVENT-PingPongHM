@@ -16,6 +16,7 @@ namespace PingPongHM
                 playertwo.Hit1();
             }
             Console.WriteLine("Player_One dead. Player_Two dead.");
+            Console.ReadKey();
         }
         public static void Vivod_message(string message)
         {
